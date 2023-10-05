@@ -43,18 +43,11 @@ export default function Home() {
         <figure>
           <figcaption>Unsplash</figcaption>
           <Image
-            src="https://images.unsplash.com/photo-1520283451192-c3b05d7db25b"
+            src="https://images.unsplash.com/photo-1519575706483-221027bfbb31"
             alt="Unsplash"
-            height={300}
-            width={900}
-          ></Image>
-        </figure>
-        <figure>
-          <figcaption>BIG AVIF</figcaption>
-          <Image
-            src="https://skylark-doc.s3.ca-central-1.amazonaws.com/profile/1694153026653577.jpg"
-            alt="Big Avif"
-            width={1920}
+            height={400}
+            width={600}
+            quality={100}
           ></Image>
         </figure>
       </main>
