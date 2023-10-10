@@ -3,7 +3,7 @@ const nextConfig = {
   // basePath: '/andy-base-path',
   reactStrictMode: true,
   images: {
-    domains: ['images.netspi.com'],
+    domains: ['images.unsplash.com'],
   },
 };
 
