@@ -44,6 +44,7 @@ export default function Home() {
           <figcaption>rotated???</figcaption>
           <Image
             src={pillarsOfCreationPng}
+            alt="The pillars of creation"
             fill={true}
             style={{
               borderRadius: "10px",
