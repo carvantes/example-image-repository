@@ -41,6 +41,19 @@ export default function Home() {
           ></Image>
         </figure>
         <figure>
+          <figcaption>rotated???</figcaption>
+          <Image
+            src={pillarsOfCreationPng}
+            fill={true}
+            style={{
+              borderRadius: "10px",
+              objectFit: "cover",
+              overflow: "hidden",
+            }}
+      loading="lazy"
+          ></Image>
+        </figure>
+        <figure>
           <figcaption>Unsplash</figcaption>
           <Image
             src="https://images.unsplash.com/photo-1519575706483-221027bfbb31"
